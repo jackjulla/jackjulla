@@ -1,5 +1,7 @@
+[![MasterHead](https://digitaledgetech.in/images/Banner_02_new.gif)]
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A diligent software developer from Kenya.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackjulla&label=Profile%20views&color=0e75b6&style=flat" alt="jackjulla" /> </p>
 
