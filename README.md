@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackjulla&show_icons=true&locale=en&layout=compact" alt="jackjulla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jackjulla&" alt="jackjulla" /></p>
