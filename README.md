@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity courses.**
 
-- 💬 Ask me about **front-end and back0-end development.**
+- 💬 Ask me about **front-end and back-end development.**
 
 - 📫 How to reach me **mwakughujacob@gmail.com**
 
