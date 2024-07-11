@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **mobile application development projects**
 
-- 🌱 I’m currently learning **Cybersecurity courses and back-end development.**
+- 🌱 I’m currently learning **Cybersecurity courses.**
 
-- 💬 Ask me about **Django and front-end development.**
+- 💬 Ask me about **front-end and back0-end development.**
 
 - 📫 How to reach me **mwakughujacob@gmail.com**
 
